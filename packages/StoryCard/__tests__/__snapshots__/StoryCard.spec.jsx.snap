@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`StoryCard renders 1`] = `
+<Col
+  md={6}
+  xs={12}
+>
+  <div>
+    <Paragraph
+      align="left"
+      bold={false}
+      invert={false}
+      size="medium"
+    />
+    <Paragraph
+      align="left"
+      bold={false}
+      invert={false}
+      size="medium"
+    />
+    <Heading
+      invert={false}
+      level="h3"
+    />
+    <Paragraph
+      align="left"
+      bold={false}
+      invert={false}
+      size="medium"
+    />
+    <Paragraph
+      align="left"
+      bold={false}
+      invert={false}
+      size="medium"
+    />
+    <a>
+      <div>
+        <img
+          width="100%"
+        />
+      </div>
+    </a>
+  </div>
+</Col>
+`;
